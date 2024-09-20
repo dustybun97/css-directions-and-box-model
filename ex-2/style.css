@@ -1,1 +1,39 @@
-/* Start coding here */
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+}
+.lightgrey,
+.black,
+.crimson,
+.khaki {
+  width: 100%;
+}
+.lightgrey {
+  border: 16px solid lightgrey;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+}
+
+.black {
+  border: 16px solid black;
+  display: flex;
+}
+
+.crimson {
+  border: 24px solid crimson;
+  display: flex;
+}
+
+.khaki {
+  background-color: khaki;
+}
+
+h1 {
+  font-size: 4.5rem;
+  text-align: center;
+  margin: 30px;
+}
