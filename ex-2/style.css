@@ -1,1 +1,40 @@
-/* Start coding here */
+.d1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  height: 400px;
+  background-color: lightgray;
+}
+
+.d2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 384px;
+  height: 384px;
+  background-color: black;
+}
+
+.d3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 368px;
+  height: 368px;
+  background-color: crimson;
+}
+
+.d4 {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  width: 344px;
+  height: 344px;
+  background-color: khaki;
+}
+
+.tech {
+  font-size: 72px;
+  padding: 30px;
+}

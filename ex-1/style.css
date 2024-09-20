@@ -1,1 +1,41 @@
 /* Start coding here */
+/* css-box-model-hackhours-1 */
+html {
+  font-size: 16px;
+}
+h1 {
+  width: 1433px;
+  height: 120px;
+  background: #92aabd;
+  align-content: center;
+  font-size: 2rem;
+  font-family: "Sarabun", sans-serif;
+  font-weight: 400;
+}
+h2 {
+  font-size: 1.5rem;
+}
+
+.container2040,
+.container2140 {
+  display: flex;
+  flex-direction: column;
+  width: 536px;
+  height: 321px;
+  border: 3px solid #183b56;
+  color: #183b56;
+  background-color: #d8e9f7;
+  margin-bottom: 50px;
+  padding-left: 20px;
+}
+
+.image {
+  width: 404.75px;
+  height: 120px;
+  background-color: #eeeeee;
+}
+
+p {
+  font-size: 1rem;
+  font-family: "Redacted Script";
+}
